@@ -1,0 +1,27 @@
+# view res/layout/main.xml #generated:6
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.hbbproject.echo.BrainService { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.hbbproject.echo.ChatBotApplication { <init>(...); }
+
+# view res/layout/chat_listitem_left.xml #generated:17
+-keep class com.hbbproject.echo.CircleImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.hbbproject.echo.LoadBrainService { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.hbbproject.echo.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.hbbproject.echo.MusicService { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.hbbproject.echo.SMSActivity { <init>(...); }
+
+# view res/layout/chat_listitem_right.xml #generated:27
+-keep class it.moondroid.chatbot.CircleImageView { <init>(...); }
+

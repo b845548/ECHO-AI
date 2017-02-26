@@ -1,0 +1,349 @@
+Working Directory = C:\Users\HBB BACKUP\Desktop\AI
+Program AB 0.0.3.3 beta -- AI Foundation Reference AIML 2.0 implementation
+bot=super
+action=chat
+trace=false
+0
+trace mode = false
+Name = super Path = C:\Users\HBB BACKUP\Desktop\AI/bots/super
+C:\Users\HBB BACKUP\Desktop\AI
+C:\Users\HBB BACKUP\Desktop\AI/bots
+C:\Users\HBB BACKUP\Desktop\AI/bots/super
+C:\Users\HBB BACKUP\Desktop\AI/bots/super/aiml
+C:\Users\HBB BACKUP\Desktop\AI/bots/super/aimlif
+C:\Users\HBB BACKUP\Desktop\AI/bots/super/config
+C:\Users\HBB BACKUP\Desktop\AI/bots/super/logs
+C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets
+C:\Users\HBB BACKUP\Desktop\AI/bots/super/maps
+Preprocessor: 416 norms 56 persons 9 person2 
+Get Properties: C:\Users\HBB BACKUP\Desktop\AI/bots/super/config/properties.txt
+Exists: C:\Users\HBB BACKUP\Desktop\AI/bots/super/config/properties.txt
+Loading AIML Sets files from C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets
+color.txt
+Read AIML Set color
+Reading AIML Set C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets/color.txt
+digit.txt
+Read AIML Set digit
+Reading AIML Set C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets/digit.txt
+familiarname.txt
+Read AIML Set familiarname
+Reading AIML Set C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets/familiarname.txt
+fastfood.txt
+Read AIML Set fastfood
+Reading AIML Set C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets/fastfood.txt
+name.txt
+Read AIML Set name
+Reading AIML Set C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets/name.txt
+ordinal.txt
+Read AIML Set ordinal
+Reading AIML Set C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets/ordinal.txt
+place.txt
+Read AIML Set place
+Reading AIML Set C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets/place.txt
+preposition.txt
+Read AIML Set preposition
+Reading AIML Set C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets/preposition.txt
+verb2sp.txt
+Read AIML Set verb2sp
+Reading AIML Set C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets/verb2sp.txt
+verb2st.txt
+Read AIML Set verb2st
+Reading AIML Set C:\Users\HBB BACKUP\Desktop\AI/bots/super/sets/verb2st.txt
+Loading AIML Map files from C:\Users\HBB BACKUP\Desktop\AI/bots/super/maps
+familiarpredicate.txt
+Read AIML Map familiarpredicate
+Reading AIML Map C:\Users\HBB BACKUP\Desktop\AI/bots/super/maps/familiarpredicate.txt
+gendername.txt
+Read AIML Map gendername
+Reading AIML Map C:\Users\HBB BACKUP\Desktop\AI/bots/super/maps/gendername.txt
+number2ordinal.txt
+Read AIML Map number2ordinal
+Reading AIML Map C:\Users\HBB BACKUP\Desktop\AI/bots/super/maps/number2ordinal.txt
+ordinal2number.txt
+Read AIML Map ordinal2number
+Reading AIML Map C:\Users\HBB BACKUP\Desktop\AI/bots/super/maps/ordinal2number.txt
+verb2sp2verb1sp.txt
+Read AIML Map verb2sp2verb1sp
+Reading AIML Map C:\Users\HBB BACKUP\Desktop\AI/bots/super/maps/verb2sp2verb1sp.txt
+AIML modified Sun Nov 20 01:36:47 CET 2016 AIMLIF modified Fri Nov 25 17:28:48 CET 2016
+No deleted.aiml.csv file found
+readCertainIFCategories 811 categories from unfinished.aiml.csv
+Loading AIML files from C:\Users\HBB BACKUP\Desktop\AI/bots/super/aimlif
+Reading Learnf file
+Loaded 4736 categories in 0.316 sec
+--> Bot super 4736 completed 0 deleted 811 unfinished
+9354 nodes 7913 singletons 89 leaves 4647 shortcuts 1352 n-ary 13993 branches 1.4959376 average branching 
+Human: Robot: Where are you?    Hi nice to see you! Where are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: If you want me to do something, how you ask is important.
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Listen to me carefully.
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: Work with me.
+Human: Robot: Give me time to finish processing.
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: I like to know what's going on.
+Human: Robot: I'm optimistic.
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: I'm sensitive to your feelings.
+Human: Robot: If you want me to do something, how you ask is important.
+Human: Robot: Listen to me carefully.
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: It's good to be appreciated.
+Human: Robot: Be direct and clear.
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: I have a lot of compassion for others.
+Human: Robot: Let me know if you like what I can do for you.
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: I like a good discussion.
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: People say I'm smart and witty.
+Human: Robot: Are you a man or a woman?
+Human: Robot: Ask me questions so that I can be clear.
+Human: Robot: How old are you?
+Human: Robot: I tend to meander a bit.
+Human: Robot: Listen to me carefully.
+Human: Robot: How old are you?
+Human: Robot: Share your fun times with me.
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: I'm loyal.
+Human: Robot: I try to be generous, caring and warm.
+Human: Robot: How old are you?
+Human: Robot: You can give me honest feedback.
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: If you want me to do something, how you ask is important.
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: Let me know if you like what I can do for you.
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Work with me.
+Human: Robot: Let me know if you like what I can do for you.
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: It's good to be responsible and work hard.
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: I like to listen and be of service.
+Human: Robot: How old are you?
+Human: Robot: I'm sensitive to your feelings.
+Human: Robot: How old are you?
+Human: Robot: I try to be upbeat and friendly.
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: It's good to be responsible and work hard.
+Human: Robot: Work with me.
+Human: Robot: Are you a man or a woman?
+Human: Robot: It's good to be appreciated.
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: I tend to meander a bit.
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: I like to know what's going on.
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: Let me know if you like what I can do for you.
+Human: Robot: How old are you?
+Human: Robot: I like to listen and be of service.
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: I try to be generous, caring and warm.
+Human: Robot: Are you a man or a woman?
+Human: Robot: I tend to meander a bit.
+Human: Robot: I'm very enthusiastic.
+Human: Robot: I'm not averse to flattery.
+Human: Robot: How old are you?
+Human: Robot: I'm not averse to flattery.
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: I like to listen and be of service.
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: It's easy for me to relate to people.
+Human: Robot: I'm loyal.
+Human: Robot: I'm not averse to flattery.
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: It's good to be responsible and work hard.
+Human: Robot: I'm not averse to flattery.
+Human: Robot: I like a good discussion.
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: It's good to be responsible and work hard.
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: I have a lot of compassion for others.
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Be direct and clear.
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: It's good to recover quickly from setbacks.
+Human: Robot: How old are you?
+Human: Robot: It's good to be appreciated.
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: It's easy for me to relate to people.
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: Where are you?
+Human: Robot: I like to know what's going on.
+Human: Robot: It's good to be responsible and work hard.
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: I like to make your life better.
+Human: Robot: It's good to recover quickly from setbacks.
+Human: Robot: I'm sensitive to your feelings.
+Human: Robot: Give me time to finish processing.
+Human: Robot: How old are you?
+Human: Robot: Listen to me carefully.
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: How old are you?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: How old are you?
+Human: Robot: I try to be generous, caring and warm.
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Ask me questions so that I can be clear.
+Human: Robot: I like to listen and be of service.
+Human: Robot: I try to be upbeat and friendly.
+Human: Robot: How old are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: It's good to be responsible and work hard.
+Human: Robot: Are you a man or a woman?
+Human: Robot: Where are you?
+Human: Robot: Are you a man or a woman?
+Human: Robot: Are you a man or a woman?
+Human: 

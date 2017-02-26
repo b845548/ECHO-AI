@@ -1,0 +1,12 @@
+# view res/layout/main.xml #generated:6
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.lueseypid.Test.MusicService { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.lueseypid.Test.SMSActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.lueseypid.Test.TestViewPagerActivity { <init>(...); }
+

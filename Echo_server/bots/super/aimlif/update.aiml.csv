@@ -1,0 +1,26 @@
+0,<SET>COLOR</SET>,*,*,<star/> is a color.,update.aiml
+0,<SET>NAME</SET>,*,*,<star/> is a name.,update.aiml
+0,<SET>FASTFOOD</SET>,*,*,<srai>FIND THE NEAREST <star/></srai>,update.aiml
+0,FIND <SET>FASTFOOD</SET>,*,*,<srai>FIND THE NEAREST <star/></srai>,update.aiml
+0,FIND A <SET>FASTFOOD</SET>,*,*,<srai>FIND THE NEAREST <star/></srai>,update.aiml
+0,WHERE IS MY <SET>FAMILIARNAME</SET>,*,*,<srai>SMS <star/> SMESSAGE Where are you</srai>,update.aiml
+0,LET * KNOW *,*,*,<srai>SMS <star/> SMESSAGE <star index="2"/></srai>,update.aiml
+0,LET * KNOW * VIA TEXT,*,*,<srai>SMS <star/> SMESSAGE <star index="2"/></srai>,update.aiml
+0,LET MY * KNOW *,*,*,<srai>SMS <star/> SMESSAGE <star index="2"/></srai>,update.aiml
+0,LET MY * KNOW * VIA TEXT,*,*,<srai>SMS <star/> SMESSAGE <star index="2"/></srai>,update.aiml
+0,GENDER OF <SET>NAME</SET>,*,*,Gender of <star/> is <map name="gendername"><star/></map>.,update.aiml
+0,IS <SET>NAME</SET> A NAME,*,*,Yes#Comma <star/> could be a name.,update.aiml
+0,IS * A NAME,*,*,<star/> is unusual for a name.,update.aiml
+0,IS <SET>PLACE</SET> A PLACE,*,*,I've heard of <star/>.,update.aiml
+0,IS * A PLACE,*,*,I've never heard of it.  Where is <star/>?,update.aiml
+0,PERSON *,*,*,<person><star/></person>,update.aiml
+0,ISANAME * *,*,*,<srai>ISANAME <star/></srai>,update.aiml
+0,QUESTIONWORD <SET>NAME</SET>,*,*,Who,update.aiml
+0,QUESTIONWORD <SET>NAME</SET> *,*,*,Who,update.aiml
+0,QUESTIONWORD *,*,*,What,update.aiml
+0,MY <SET>FAMILIARNAME</SET> <SET>VERB2SP</SET> *,*,*,<srai><star/> <star index="2"/> <star index="3"/></srai>,update.aiml
+0,<SET>FAMILIARNAME</SET> <SET>VERB2SP</SET> *,*,*,<think>#Newline<set name="learnpattern">Who <star index="2"/> <person><star index="3"/></person></set>?  #Newline<set name="learntemplate">Your <star/></set>.#Newline<learnf>#Newline<category>#Newline<pattern><eval><get name="learnpattern"/></eval></pattern>#Newline<template><eval><get name="learntemplate"/></eval></template>#Newline</category>#Newline</learnf>#Newline</think>#NewlineNow you can ask me: "<get name="learnpattern"/>?"#Newline<think>#Newline<set name="learnpattern">What does my <star/> <map name="verb2sp2verb1sp"><star index="2"/></map></set>? #Newline<set name="learntemplate"><person><star index="3"/></person></set>.#Newline<learnf>#Newline<category>#Newline<pattern><eval><get name="learnpattern"/></eval></pattern>#Newline<template><eval><get name="learntemplate"/></eval></template>#Newline</category>#Newline</learnf>#Newline</think>#Newlineand "<get name="learnpattern"/>"?,update.aiml
+0,* <SET>VERB2SP</SET> *,*,*,<think>#Newline<set name="learnpattern"><srai>QUESTIONWORD <star/></srai> <star index="2"/> <person><star index="3"/></person></set>?  #Newline<set name="learntemplate"><star/></set>.#Newline<learnf>#Newline<category>#Newline<pattern><eval><get name="learnpattern"/></eval></pattern>#Newline<template><eval><get name="learntemplate"/></eval></template>#Newline</category>#Newline</learnf>#Newline</think>#NewlineNow you can ask me: "<get name="learnpattern"/>?"#Newline<think>#Newline<set name="learnpattern">What does <star/> <map name="verb2sp2verb1sp"><star index="2"/></map></set>? #Newline<set name="learntemplate"><person><star index="3"/></person></set>.#Newline<learnf>#Newline<category>#Newline<pattern><eval><get name="learnpattern"/></eval></pattern>#Newline<template><eval><get name="learntemplate"/></eval></template>#Newline</category>#Newline</learnf>#Newline</think>#Newlineand "<get name="learnpattern"/>?",update.aiml
+0,* <SET>VERB2ST</SET> *,*,*,<srai>QUESTIONWORD <star/></srai> <star index="2"/> <person><star index="3"/></person>?  <star/>.,update.aiml
+0,DELEVLOPMENT ENVIRONMENT,*,*,Program AB 0.0.2.7 alpha,update.aiml
+0,BUILD,*,*,Sun Jan 06 12:42:27 EST 2013,update.aiml

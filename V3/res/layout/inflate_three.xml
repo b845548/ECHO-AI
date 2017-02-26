@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="#5a8f70">
+	<EditText  
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"  
+        android:text=""              
+        android:hint="Tell me something"
+		android:background="@drawable/edittext_bg"
+		android:fontFamily="sans-serif-thin"
+		android:id="@+id/messageText2"
+		android:textColorHint="#ffffff"
+		android:textSize="40sp"
+		android:gravity="center"
+		android:layout_centerInParent="true"/>
+</LinearLayout>

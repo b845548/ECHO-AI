@@ -1,0 +1,461 @@
+Mon Nov 21 08:43:04 CET 2016
+192.168.1.156
+Q : hi
+A : Hi! It's delightful to see you.
+
+Mon Nov 21 08:43:24 CET 2016
+192.168.1.156
+Q : hi
+A : Hi! It's delightful to see you.
+
+Mon Nov 21 08:43:35 CET 2016
+192.168.1.156
+Q : hi
+A : Hi nice to see you!
+
+Tue Nov 22 20:58:29 CET 2016
+192.168.1.155
+Q : hi
+A : 
+Tue Nov 22 20:58:43 CET 2016
+192.168.1.155
+Q : hi
+A : Hi it's great to see you!
+
+Tue Nov 22 20:59:04 CET 2016
+192.168.1.155
+Q : hi
+A : Hi! It's delightful to see you.
+
+Wed Nov 23 14:30:46 CET 2016
+192.168.1.155
+Q : hi
+A : Hi! It's delightful to see you.
+
+Wed Nov 23 14:32:16 CET 2016
+192.168.1.155
+Q : hi
+A : Hi! It's delightful to see you.
+
+Wed Nov 23 14:32:29 CET 2016
+192.168.1.155
+Q : 
+A : Where are you?
+
+Wed Nov 23 15:04:14 CET 2016
+192.168.1.155
+Q : hi
+A : 
+Wed Nov 23 15:04:31 CET 2016
+192.168.1.155
+Q : hi
+A : 
+Wed Nov 23 15:04:44 CET 2016
+192.168.1.155
+Q : hi
+A : 
+Wed Nov 23 15:04:54 CET 2016
+192.168.1.155
+Q : hi
+A : Hi!  I can really feel your smile today.
+
+Wed Nov 23 15:06:01 CET 2016
+192.168.1.155
+Q : how are you ? 
+A : Hi it's great to see you!
+
+Wed Nov 23 15:06:24 CET 2016
+192.168.1.155
+Q : your name
+A : Call me
+SUPER.
+
+Wed Nov 23 15:06:39 CET 2016
+192.168.1.155
+Q : hi
+A : Hi! It's delightful to see you.
+
+Wed Nov 23 21:43:17 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : 
+Wed Nov 23 21:43:54 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : How old are you?
+
+Wed Nov 23 21:44:31 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Where are you?
+
+Wed Nov 23 21:44:50 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Where are you?
+
+Wed Nov 23 21:47:12 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Wed Nov 23 21:46:47 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Wed Nov 23 21:49:23 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Where are you?
+
+Fri Nov 25 12:11:23 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Fri Nov 25 12:11:53 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Where are you?
+
+Fri Nov 25 12:11:59 CET 2016
+127.0.0.1
+Q : GET /favicon.ico HTTP/1.1
+A : Where are you?    Are you a man or a woman?
+
+Fri Nov 25 12:35:10 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Fri Nov 25 12:35:16 CET 2016
+127.0.0.1
+Q : GET /favicon.ico HTTP/1.1
+A : Listen to me carefully.    How old are you?
+
+Fri Nov 25 12:53:58 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : How old are you?
+
+Fri Nov 25 12:54:04 CET 2016
+127.0.0.1
+Q : GET /favicon.ico HTTP/1.1
+A : How old are you?    How old are you?
+
+Fri Nov 25 12:55:38 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Fri Nov 25 12:55:56 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Where are you?
+
+Fri Nov 25 12:56:55 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Would you like to do a search for it?
+
+Fri Nov 25 15:47:22 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : How old are you?
+
+Fri Nov 25 15:50:15 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Fri Nov 25 15:53:25 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : I like to listen and be of service.
+
+Fri Nov 25 15:53:48 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : I like to know what's going on.
+
+Fri Nov 25 15:54:57 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : I try to be upbeat and friendly.
+
+Fri Nov 25 15:56:34 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+
+</html>
+Fri Nov 25 16:02:26 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+
+</html>
+Fri Nov 25 16:03:15 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+
+</html>
+Fri Nov 25 16:03:39 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+
+</html>
+Fri Nov 25 16:04:21 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+
+</html>
+Fri Nov 25 16:05:12 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+<body>
+</body>
+
+</html>
+Fri Nov 25 16:06:05 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+<body>
+</body>
+
+</html>
+Fri Nov 25 16:07:14 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+<body>
+</body>
+
+</html>
+Fri Nov 25 16:07:27 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+<body>
+</body>
+
+</html>
+Fri Nov 25 16:07:45 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+<body>
+</body>
+
+</html>
+Fri Nov 25 16:08:02 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+
+<head>
+Hi! It's delightful to see you.
+</head>
+
+<body>
+</body>
+
+</html>
+Fri Nov 25 16:11:05 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : <!doctype html>
+<html>
+<head>
+Hi! It's delightful to see you.
+</head>
+
+<body>
+</body>
+
+</html>
+Fri Nov 25 16:14:09 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : <!doctype html>
+<html>
+<head>
+Hi! It's delightful to see you.
+</head>
+
+<body>
+</body>
+
+</html>
+Fri Nov 25 16:24:30 CET 2016
+127.0.0.1
+Q : e
+A : Where are you?
+
+Fri Nov 25 16:24:39 CET 2016
+127.0.0.1
+Q : e
+A : How old are you?
+
+Fri Nov 25 16:25:15 CET 2016
+127.0.0.1
+Q : e
+A : How old are you?
+
+Fri Nov 25 16:25:28 CET 2016
+127.0.0.1
+Q : e
+A : Where are you?
+
+Fri Nov 25 16:26:23 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : I work efficiently.
+
+Fri Nov 25 16:33:04 CET 2016
+192.168.1.155
+Q : hi
+A : Hi how are you?
+
+Fri Nov 25 16:33:30 CET 2016
+192.168.1.155
+Q : 
+A : How old are you?
+
+Fri Nov 25 16:33:43 CET 2016
+192.168.1.155
+Q : 
+A : How old are you?
+
+Fri Nov 25 16:34:04 CET 2016
+192.168.1.155
+Q : what are you doing?
+A : I've been waiting for you.
+
+Fri Nov 25 17:23:56 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : How old are you?
+
+Fri Nov 25 17:27:56 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Fri Nov 25 17:27:56 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Fri Nov 25 17:27:56 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Fri Nov 25 17:27:56 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Fri Nov 25 17:28:19 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : I like to stay informed.
+
+Fri Nov 25 17:28:44 CET 2016
+127.0.0.1
+Q : GET / HTTP/1.1
+A : Are you a man or a woman?
+
+Fri Nov 25 17:34:37 CET 2016
+127.0.0.1
+Q : GET /?hi HTTP/1.1
+A : Where are you?    Hi nice to see you! Where are you?
+
+Wed Jan 04 16:15:08 CET 2017
+172.21.229.81
+Q : hi
+A : 
+Wed Jan 04 16:15:23 CET 2017
+172.21.229.81
+Q : hi
+A : 
+Wed Jan 04 16:15:35 CET 2017
+172.21.229.81
+Q : hi
+A : 
+Wed Jan 04 16:16:09 CET 2017
+172.21.229.81
+Q : hi
+A : 
+Wed Jan 04 16:17:08 CET 2017
+172.21.229.81
+Q : hi
+A : 

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hbbproject.echo" >
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> 
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" /> 
+    <uses-permission android:name="android.permission.READ_MEDIA_STORAGE" />
+    <application
+        android:name=".ChatBotApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar">
+        <activity
+            android:name="com.hbbproject.echo.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".LoadBrainService"
+            android:exported="false"/>
+
+        <service android:name=".BrainService"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name" />
+
+
+        <service android:name=".MusicService">
+            <intent-filter>﻿
+            <action android:name="com.service.test" />
+            <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+          </service>
+
+ 
+        <activity
+            android:name="SMSActivity"> 
+        </activity>
+
+
+    </application>
+
+</manifest>
